@@ -24,7 +24,7 @@
 ## Project Overview
 This project involved consulting for a Portuguese winery that produces traditional "Vinho Verde" wines. The objective was to analyze the chemical properties of red and white wines to identify the key factors that influence wine quality, with the ultimate goal of optimizing production processes.
 
-Three datasets were used:
+Three datasets were used. All are present inside the wine_data folder:
 
 - winequality-red.csv – 1,599 samples of red wine.
 
